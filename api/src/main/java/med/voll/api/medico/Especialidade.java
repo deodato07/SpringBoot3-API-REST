@@ -1,6 +1,6 @@
 package med.voll.api.medico;
 
-public enum Estecialidade {
+public enum Especialidade {
     ORTOPEDIA,
     CARDIOLOGIA,
     GINECOLOGIA,
